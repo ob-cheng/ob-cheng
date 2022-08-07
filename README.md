@@ -3,7 +3,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from __future__ import success, good_insight
+from __future__ import insight, knowledge
 from __personalities__ import motivation, detail_oriented
 
 class DataScience:
@@ -30,6 +30,6 @@ me.greeting()
 
 <details>
     <summary><b>🎁 open me </b></summary>
-    <img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"/>
+    <img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"/> <-- a coding dog XD Have a good day and feel free to be in touch😎!
 </details>
 </details>
