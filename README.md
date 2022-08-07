@@ -1,6 +1,4 @@
 
-# Oh Hey, What's Up! 👋
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -25,18 +23,12 @@ me = DataScience()
 me.greeting()
 ```
 
-## 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/ob-cheng/PROJECT-Unicorn-Companies-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ob-cheng&repo=PROJECT-Unicorn-Companies-Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
-</a>
-
-<a href="https://github.com/ob-cheng/PROJECT-NYC_Public_School_Test_Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ob-cheng&repo=PROJECT-NYC_Public_School_Test_Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
-</a>
-
-
+<details>
+    <summary><b>🎁 open me 🎁 </b></summary>
+    <img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"/>
+</details>
+</details>
