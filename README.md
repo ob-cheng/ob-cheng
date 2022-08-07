@@ -30,6 +30,6 @@ me.greeting()
 
 <details>
     <summary><b>🎁 open me </b></summary>
-    <img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"/> <-- a coding dog XD Have a good day and feel free to be in touch😎!
+    <img src="https://media.giphy.com/media/d9eIbBHbQBSpy/giphy.gif"/> <-- reminder from doggy: you the best! :D
 </details>
 </details>
