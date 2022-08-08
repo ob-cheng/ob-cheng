@@ -22,7 +22,7 @@ class DataScience:
 me = DataScience()
 me.greeting()
 ```
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tianen-cheng/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tianen-cheng/) <-- find me here!
 
 #### 🔧 Technologies & Tools
 
