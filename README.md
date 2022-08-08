@@ -16,7 +16,7 @@ class DataScience:
         self.ongonig = "Google Data Analytics Professional Certificate"
 
     def greeting(self):
-        print('Thanks for dropping by. Hope you find my "little world" interesting. Have a good one!')
+        print('Thanks for dropping by. Hope you find my "hub" interesting. Have a good one!')
 
 
 me = DataScience()
