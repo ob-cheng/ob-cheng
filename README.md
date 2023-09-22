@@ -3,17 +3,18 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from __future__ import insight, knowledge
-from __personalities__ import motivation, detail_oriented
+from __future__ import skill, knowledge, development
+from __personalities__ import self-motivative, detail_oriented, ambitious
 
 class DataScience:
 
     def __init__(self):
         self.name = "Tianen Cheng"
-        self.role = "Data Analyst"
+        self.role = "Business Intelligence Engineer"
         self.languages = ["Python", "SQL", "PL/SQL", "R", "SAS"]
-        self.databases = ["Oracle_Server", "AWS_DynamoDB"]
-        self.ongonig = "Google Data Analytics Professional Certificate"
+        self.databases = ["Oracle", "AWS"]
+        self.tools = ["Alteryx", "Tableau"]
+
 
     def greeting(self):
         print('Thanks for dropping by. Hope you find my "hub" interesting. Have a good one!')
