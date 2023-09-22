@@ -31,6 +31,6 @@ me.greeting()
 
 <details>
     <summary><b>🎁 open me </b></summary>
-    <img src="https://media.giphy.com/media/d9eIbBHbQBSpy/giphy.gif"/> <-- reminder from doggy: you the best! :D
+    <img src="https://media.giphy.com/media/d9eIbBHbQBSpy/giphy.gif"/> <-- Here you go, some puppy love!
 </details>
 </details>
