@@ -1,27 +1,26 @@
-
 ```python
-#!/usr/bin/python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from __future__ import skill, knowledge, development
-from __personalities__ import self-motivative, detail_oriented, ambitious
+from __future__ import skill, vision, curiosity
+from __traits__ import self_motivated, detail_oriented, ambitious
 
-class DataScience:
+class DataScientist:
 
     def __init__(self):
         self.name = "Tianen Cheng"
-        self.role = "Business Intelligence Engineer"
+        self.title = "Analytics Engineer"
         self.languages = ["Python", "SQL", "PL/SQL", "R", "SAS"]
-        self.databases = ["Oracle", "AWS"]
-        self.tools = ["Alteryx", "Tableau"]
-
+        self.databases = ["Oracle", "AWS Redshift"]
+        self.tools = ["Tableau", "Alteryx", "Power BI", "Power Apps", "Power Automate", "Copilot Studio"]
+        self.focus_areas = ["Data Engineering", "Dashboards", "Automation", "AI Agents"]
 
     def greeting(self):
         print('Thanks for dropping by. Hope you find my "hub" interesting. Have a good one!')
 
-
-me = DataScience()
+me = DataScientist()
 me.greeting()
+
 ```
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tianen-cheng/) <-- find me here!
 
