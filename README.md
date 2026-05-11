@@ -26,7 +26,7 @@ print(me.say_hi())
 - **AI-Powered Automation**: Building intelligent agents with LLMs and Power Platform
 - **Data Pipelines**: ETL workflows for analytics and reporting
 - **Interactive Dashboards**: Business intelligence solutions with Tableau and customized developed dashboard
-- **CLI Tools**: Command-line utilities for productivity (check out my [Outlook CLI](link-to-repo))
+- **CLI Tools**: Command-line utilities for productivity (check out my [Outlook CLI](https://github.com/ob-cheng/outlook-cli-2.0))
 
 ## 🛠️ Tech Stack
 
